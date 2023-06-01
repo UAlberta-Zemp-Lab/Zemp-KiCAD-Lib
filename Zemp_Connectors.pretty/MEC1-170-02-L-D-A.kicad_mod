@@ -1,6 +1,6 @@
 (footprint "MEC1-170-02-L-D-A" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (descr "CONN EDGE DUAL FML 140POS 0.039 (1.00 mm)")
+  (descr "CONN EDGE DUAL FEMALE 140POS 0.039 (1.00 mm)")
   (attr smd)
   (fp_text reference "REF**" (at 0.02 -0.5 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
