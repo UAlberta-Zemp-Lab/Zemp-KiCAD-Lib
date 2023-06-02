@@ -1,7 +1,7 @@
 (footprint "AXK764147G" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "CONN SOCKET 64POS SMD GOLD 0.016 (0.40mm)")
-  (fp_text reference "REF**" (at -2.6 0.99 unlocked) (layer "F.SilkS") hide
+  (fp_text reference "REF**" (at -2.6 0.99 unlocked) (layer "F.SilkS")
       (effects (font (size 1.524 1.524) (thickness 0.254)) (justify left bottom))
     (tstamp f719db5a-0bd5-48a7-98a3-d051cac8592b)
   )
